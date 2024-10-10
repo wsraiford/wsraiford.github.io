@@ -4,17 +4,17 @@ body {
 }
 
 h1 {
-    color:rgb(56, 2, 2); 
+    color:darkred; 
     text-align: center; 
 }
 
 h2 {
-    color:rgb(56, 2, 2); 
+    color:darkred; 
     text-align: center; 
 }
 
 p {
-    color:rgb(56, 2, 2); 
+    color:darkred; 
     text-align: center; 
 }
 
@@ -35,7 +35,7 @@ border-radius: 25%;
     width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid rgb(126, 14, 201); /* choose a color */
+    border: 2px solid rgb(23, 15, 120); /* choose a color */
     display: block;
     margin: auto;
     }
